@@ -171,7 +171,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Shivanand Hanchinal**
+**Ranjita K Bagali**
 
 Electronics & Communication Engineering Student
 
